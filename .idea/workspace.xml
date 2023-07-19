@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e19840c-66da-4ecd-a180-a9ab86997beb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="digital_currency: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="digital_currency: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="courses: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="digital_currency: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="users_course: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="24YekNny5az49PnrRPu3CBJB56t" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\administrator" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\dist\bootstrap\js" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\dist\bootstrap\css" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\dist" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\partials" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\DB" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\administrator" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\css" />
+      <recent name="C:\xampp\htdocs\PHP\digital_currency\administrator\users" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e19840c-66da-4ecd-a180-a9ab86997beb" name="Default Changelist" comment="" />
+      <created>1643812089958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643812089958</updated>
+      <workItem from="1643812092753" duration="5467000" />
+      <workItem from="1643884495776" duration="3961000" />
+      <workItem from="1643889336981" duration="6958000" />
+      <workItem from="1643962575475" duration="5070000" />
+      <workItem from="1643980029488" duration="13638000" />
+      <workItem from="1644087848252" duration="25348000" />
+      <workItem from="1644431465732" duration="2847000" />
+      <workItem from="1647446942462" duration="2955000" />
+      <workItem from="1648205020190" duration="5697000" />
+      <workItem from="1648366565203" duration="5647000" />
+      <workItem from="1648388618140" duration="13647000" />
+      <workItem from="1648542127529" duration="1850000" />
+      <workItem from="1648546078768" duration="7919000" />
+      <workItem from="1648726766890" duration="8655000" />
+      <workItem from="1648890072246" duration="1856000" />
+      <workItem from="1648920795353" duration="894000" />
+      <workItem from="1648933217881" duration="2361000" />
+      <workItem from="1648980052315" duration="12475000" />
+      <workItem from="1649063147883" duration="17635000" />
+      <workItem from="1649161644580" duration="5073000" />
+      <workItem from="1649167150813" duration="2924000" />
+      <workItem from="1649167646145" duration="5419000" />
+      <workItem from="1649173304000" duration="737000" />
+      <workItem from="1649413623094" duration="36000" />
+      <workItem from="1649503561223" duration="24918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
